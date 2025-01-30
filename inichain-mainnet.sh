@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -s https://data.zamzasalim.xyz/file/uploads/asclogo.sh | bash
+curl -s https://github.com/Iyas-SOA/Files/blob/main/Logo%20SOA.sh | bash
 sleep 5
 
 # Tentukan nama pengguna dan direktori instalasi
